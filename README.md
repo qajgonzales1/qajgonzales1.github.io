@@ -9,7 +9,8 @@ CPE31S4 CPE232 | Allen Jerome B. Gonzales
 
 ### Prelim Period Content
 <summary style="background-color: #FADBD8;">
-**Prelim Period:**
+<p><strong>Prelim Period: </strong></p>
+
 
 - [Hands-on Activity 1 - Creating Virtual Machines](https://github.com/qajgonzales1/HOA1.git)
 - [Hands-on Activity 2 - SSH Key-Based Authentication and GIT Setup](https://github.com/qajgonzales1/HOA2.git)
@@ -27,7 +28,8 @@ CPE31S4 CPE232 | Allen Jerome B. Gonzales
 
 ### Midterm Period Content
 <summary style="background-color: #D6EAF8;">
-**Midterm Period:**
+<p><strong>Midterm Period: </strong></p>
+
 
 - [Hands-on Activity 6 - Targeting specific nodes](https://github.com/qajgonzales1/HOA6.git)
 - [Hands-on Activity 7 - Managing files and Creating Roles in Ansible](https://github.com/qajgonzales1/HOA7.git)
@@ -45,7 +47,8 @@ CPE31S4 CPE232 | Allen Jerome B. Gonzales
 
 ### Final Period Content
  <summary style="background-color: #F9E79F;">
-**Final Period:**
+<p><strong>Finals: </strong></p>
+
 
 - [Hands-on Activity 11 - Containerization](https://github.com/qajgonzales1/HOA11.git)
 - [Hands-on Activity 12 - Build a sample web app in a Docker Container](https://github.com/qajgonzales1/HOA12.git)
