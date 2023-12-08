@@ -9,8 +9,7 @@ CPE31S4 CPE232 | Allen Jerome B. Gonzales
 
 ### Prelim Period Content
 <summary style="background-color: #FADBD8;">
-<p><strong>Prelim Period: </strong></p>
-
+**Prelim Period:**
 
 - [Hands-on Activity 1 - Creating Virtual Machines](https://github.com/qajgonzales1/HOA1.git)
 - [Hands-on Activity 2 - SSH Key-Based Authentication and GIT Setup](https://github.com/qajgonzales1/HOA2.git)
@@ -28,8 +27,7 @@ CPE31S4 CPE232 | Allen Jerome B. Gonzales
 
 ### Midterm Period Content
 <summary style="background-color: #D6EAF8;">
-<p><strong>Midterm Period: </strong></p>
-
+**Midterm Period:**
 
 - [Hands-on Activity 6 - Targeting specific nodes](https://github.com/qajgonzales1/HOA6.git)
 - [Hands-on Activity 7 - Managing files and Creating Roles in Ansible](https://github.com/qajgonzales1/HOA7.git)
@@ -47,19 +45,18 @@ CPE31S4 CPE232 | Allen Jerome B. Gonzales
 
 ### Final Period Content
  <summary style="background-color: #F9E79F;">
-<p><strong>Finals: </strong></p>
-
+**Final Period:**
 
 - [Hands-on Activity 11 - Containerization](https://github.com/qajgonzales1/HOA11.git)
 - [Hands-on Activity 12 - Build a sample web app in a Docker Container](https://github.com/qajgonzales1/HOA12.git)
 - [Hands-on Activity 13 - Openstack Prerequisite Installation](https://github.com/qajgonzales1/HOA13.git)
-- Hands-on Activity 14 - Openstack Installation(Keystone, Glance, Nova)
-- Hands-on Activity 15 - Openstack Installation(Neutron, Horizon, Cinder)
+- [Hands-on Activity 14 - Openstack Installation(Keystone, Glance, Nova)](Replace_With_Activity_14_Link)
+- [Hands-on Activity 15 - Openstack Installation(Neutron, Horizon, Cinder)](Replace_With_Activity_15_Link)
 </summary>
 I’m currently learning **Managing Enterprise Servers**
 
 In this course, I have learned how to implement what I have learned before about the Linux OS, and apply it onto this course. I have learned how to create connected servers using ssh, I have learned how to create yaml files that do system updates, installations, and the likes. I have learned how to use ansible to make use of scripts to manage other servers with the use of ansible and ssh. I have learned to use tags and roles to create a better filtering for tasks. I have learned how to create containers to conserve resources and still apply ansible roles and tasks. This course has taught me a lot, and I believe that it will make me a better worker in the future.
 
-- 📫 How to reach me **qajgonzales1@tip.edu.ph**
+- 📫 How to reach me [qajgonzales1@tip.edu.ph](mailto:qajgonzales1@tip.edu.ph)
 
 </details>
