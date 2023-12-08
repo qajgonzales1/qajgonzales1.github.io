@@ -1,4 +1,5 @@
 <summary style="background-color: #808080;">
+  
 # Final Project Website using HTML
 
 CPE31S4 CPE232 | Allen Jerome B. Gonzales
