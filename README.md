@@ -1,5 +1,3 @@
-<summary style="background-color: #808080;">
-  
 # Final Project Website using HTML
 
 CPE31S4 CPE232 | Allen Jerome B. Gonzales
@@ -62,4 +60,3 @@ In this course, I have learned how to implement what I have learned before about
 - 📫 How to reach me [qajgonzales1@tip.edu.ph](mailto:qajgonzales1@tip.edu.ph)
 
 </details>
-</summary>
