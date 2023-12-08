@@ -1,12 +1,85 @@
-<h1 align="center"><strong>Final project website using  HTML</strong></h1>
-<h1 align="center">CPE31S4 CPE232 | Allen Jerome B. Gonzales</h1>
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Project Website</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
 
-<h1 align="center">Final Project (CPE 232)</h1>
-<h3 align="center">Final Project submission by Allen Jerome B. Gonzales CPE31S4</h3>
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+        }
 
-<p><strong>Prelim Period: </strong></p>
+        nav {
+            background-color: #f2f2f2;
+            overflow: hidden;
+        }
 
+        nav a {
+            float: left;
+            display: block;
+            color: #333;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            background-color: #ddd;
+        }
+
+        .tabcontent {
+            display: none;
+            padding: 20px;
+        }
+    </style>
+    <script>
+        // JavaScript to toggle between tabs
+        function openTab(evt, tabName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+    </script>
+</head>
+
+<body>
+
+    <header>
+        <h1>Final Project Website using HTML</h1>
+        <h2>CPE31S4 CPE232 | Allen Jerome B. Gonzales</h2>
+    </header>
+
+    <nav>
+        <a href="#" class="tablinks" onclick="openTab(event, 'Prelim')">Prelim Period</a>
+        <a href="#" class="tablinks" onclick="openTab(event, 'Midterm')">Midterm Period</a>
+        <a href="#" class="tablinks" onclick="openTab(event, 'Final')">Final Period</a>
+    </nav>
+
+    <!-- Prelim Period Content -->
+    <div id="Prelim" class="tabcontent">
+        <h3 align="center">Prelim Period</h3>
+        <!-- Add your prelim period content here -->
+        <p><strong>Prelim Period:</strong></p>
+        <!-- ... Your prelim content ... -->
 - Hands-on Activity 1 [Creating Virtual Machines](https://github.com/qajgonzales1/HOA1.git)
 
 - Hands-on Activity 2 [SSH Key-Based Authentication and GIT Setup](https://github.com/qajgonzales1/HOA2.git)
@@ -19,7 +92,11 @@
 
 - Prelim Examination [Major Examination](https://github.com/qajgonzales1/Gonzales_PrelimExam.git)
 
-<p><strong>Midterm Period: </strong></p>
+    <!-- Midterm Period Content -->
+    <div id="Midterm" class="tabcontent">
+        <h3 align="center">Midterm Period</h3>
+
+    <p><strong>Midterm Period: </strong></p>
 
 - Hands-on Activity 6 [Targeting specific nodes](https://github.com/qajgonzales1/HOA6.git)
 
@@ -33,9 +110,13 @@
 
 - Midterm Exam [Major Examination](https://github.com/qajgonzales1/CPE_MIDEXAM_GONZALES.git)
 
-<p><strong>Final Period: </strong></p>
-
-- Hands-on Activity 11 [Containerization](https://github.com/qajgonzales1/HOA11.git)
+    <!-- Final Period Content -->
+    <div id="Final" class="tabcontent">
+        <h3 align="center">Final Period</h3>
+        <!-- Add your final period content here -->
+        <p><strong>Final Period:</strong></p>
+        <!-- ... Your final content ... -->
+    - Hands-on Activity 11 [Containerization](https://github.com/qajgonzales1/HOA11.git)
 
 - Hands-on Activity 12 [Build a sample web app in a Docker Container](https://github.com/qajgonzales1/HOA12.git)
 
@@ -45,8 +126,11 @@
 
 - Hands-on Activity 15 [Openstack Installation(Neutron, Horizon, Cinder)]()
 
-- I’m currently learning **Managing Enterprise Servers**
 
-<body align="left">In this course, I have learned how to implement what I have learned before about the Linux OS, and apply it onto this course. I have learned how to create connected servers using ssh, I have learned how to create yaml files that do system updates, installations, and the likes. I have learned how to use ansible to make use of scripts to manage other servers with the use of ansibe and ssh. I have learned to use tags and roles to create a better filtering for tasks. I have learned how to create containers to conserve resources and still apply ansible roles and tasks. This course has taught me a lot, and I believe that it will make me a better worker in the future.</body>
+    <footer>
+        <p>Contact: <a href="mailto:qajgonzales1@tip.edu.ph">qajgonzales1@tip.edu.ph</a></p>
+    </footer>
 
-- 📫 How to reach me **qkgallave@tip.edu.ph**
+</body>
+
+</html>
