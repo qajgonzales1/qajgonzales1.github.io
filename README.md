@@ -21,7 +21,7 @@
 - Prelim Examination [Major Examination](https://github.com/qajgonzales1/Gonzales_PrelimExam.git)
 </summary
 
-<summary style="background-color: #FADBD8;">
+<summary style="background-color: #D6EAF8;">
 <p><strong>Midterm Period: </strong></p>
 
 - Hands-on Activity 6 [Targeting specific nodes](https://github.com/qajgonzales1/HOA6.git)
@@ -37,7 +37,7 @@
 - Midterm Exam [Major Examination](https://github.com/qajgonzales1/CPE_MIDEXAM_GONZALES.git)
 </summary>
 
-<summary style="background-color: #FADBD8;">
+<summary style="background-color: #F9E79F;">
 <p><strong>Final Period: </strong></p>
 
 - Hands-on Activity 11 [Containerization](https://github.com/qajgonzales1/HOA11.git)
