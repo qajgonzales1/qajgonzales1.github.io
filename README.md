@@ -5,7 +5,7 @@ CPE31S4 CPE232 | Allen Jerome B. Gonzales
 ## Prelim Period
 
 <details>
-  <summary>Click to expand</summary>
+  <summary style="background-color: #FADBD8;">Click to expand</summary>
 
 ### Prelim Period Content
 
@@ -23,7 +23,7 @@ CPE31S4 CPE232 | Allen Jerome B. Gonzales
 ## Midterm Period
 
 <details>
-  <summary>Click to expand</summary>
+  <summary style="background-color: #D6EAF8;">Click to expand</summary>
 
 ### Midterm Period Content
 
@@ -41,7 +41,7 @@ CPE31S4 CPE232 | Allen Jerome B. Gonzales
 ## Final Period
 
 <details>
-  <summary>Click to expand</summary>
+  <summary style="background-color: #F9E79F;">Click to expand</summary>
 
 ### Final Period Content
 
