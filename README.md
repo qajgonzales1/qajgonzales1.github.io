@@ -41,7 +41,7 @@
   <button class="tablinks" onclick="openTab(event, 'Final')">Final Period</button>
 </div>
 
-<div id="Prelim" class="tabcontent">
+<div id="Prelim">
   <h2>Prelim Period</h2>
   <p><strong>Prelim Period Content:</strong></p>
 
