@@ -34,8 +34,8 @@
 - [Hands-on Activity 11 - Containerization](https://github.com/qajgonzales1/HOA11.git)
 - [Hands-on Activity 12 - Build a sample web app in a Docker Container](https://github.com/qajgonzales1/HOA12.git)
 - [Hands-on Activity 13 - Openstack Prerequisite Installation](https://github.com/qajgonzales1/HOA13.git)
-- [Hands-on Activity 14 - Openstack Installation(Keystone, Glance, Nova)](Replace_With_Activity_14_Link)
-- [Hands-on Activity 15 - Openstack Installation(Neutron, Horizon, Cinder)](Replace_With_Activity_15_Link)
+- [Hands-on Activity 14 - Openstack Installation(Keystone, Glance, Nova)](https://github.com/qajgonzales1/HOA14.git)
+- [Hands-on Activity 15 - Openstack Installation(Neutron, Horizon, Cinder)](https://github.com/qajgonzales1/HOA15.git)
 
 I’m currently learning **Managing Enterprise Servers**
 
