@@ -1,6 +1,7 @@
 <h1 align="center"><strong>Final project website using  HTML</strong></h1>
 <h1 align="center">CPE31S4 CPE232 | Allen Jerome B. Gonzales</h1>
 
+
 ## Prelim Period
 
 <details>
