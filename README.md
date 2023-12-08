@@ -6,7 +6,9 @@
 <h3 align="center">Final Project submission by Allen Jerome B. Gonzales CPE31S4</h3>
 
 <p><strong>Prelim Period: </strong></p>
-
+<details>
+<summary style="background-color: #FADBD8;">Contents</summary>
+  
 - Hands-on Activity 1 [Creating Virtual Machines](https://github.com/qajgonzales1/HOA1.git)
 
 - Hands-on Activity 2 [SSH Key-Based Authentication and GIT Setup](https://github.com/qajgonzales1/HOA2.git)
@@ -18,6 +20,7 @@
 - Hands-on Activity 5 [Implementing Ansible roles in playbooks](https://github.com/qajgonzales1/HOA5.git)
 
 - Prelim Examination [Major Examination](https://github.com/qajgonzales1/Gonzales_PrelimExam.git)
+  </details>
 
 <p><strong>Midterm Period: </strong></p>
 
