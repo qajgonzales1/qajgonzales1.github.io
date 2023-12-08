@@ -1,11 +1,8 @@
-<h1 align="center"><strong>Final project website using  HTML</strong></h1>
+<h1 align="center"><strong>Final project website using HTML</strong></h1>
 <h1 align="center">CPE31S4 CPE232 | Allen Jerome B. Gonzales</h1>
 
-<a href="#prelim">Prelim Period</a> | 
-<a href="#midterm">Midterm Period</a> | 
-<a href="#final">Final Period</a>
-
-## Prelim Period <a name="prelim"></a>
+<button class="collapsible" onclick="toggleSection('prelim')">Prelim Period</button>
+<div class="content" id="prelim" style="display: none;">
 
 **Prelim Period Content:**
 
@@ -16,7 +13,10 @@
 - [Hands-on Activity 5 - Implementing Ansible roles in playbooks](https://github.com/qajgonzales1/HOA5.git)
 - [Prelim Examination - Major Examination](https://github.com/qajgonzales1/Gonzales_PrelimExam.git)
 
-## Midterm Period <a name="midterm"></a>
+</div>
+
+<button class="collapsible" onclick="toggleSection('midterm')">Midterm Period</button>
+<div class="content" id="midterm" style="display: none;">
 
 **Midterm Period Content:**
 
@@ -27,7 +27,10 @@
 - [Hands-on Activity 10 - Install, Configure and Manage Enterprise Log Monitoring via Ansible](https://github.com/qajgonzales1/HOA10.git)
 - [Midterm Exam - Major Examination](https://github.com/qajgonzales1/CPE_MIDEXAM_GONZALES.git)
 
-## Final Period <a name="final"></a>
+</div>
+
+<button class="collapsible" onclick="toggleSection('final')">Final Period</button>
+<div class="content" id="final" style="display: none;">
 
 **Final Period Content:**
 
@@ -37,8 +40,15 @@
 - [Hands-on Activity 14 - Openstack Installation(Keystone, Glance, Nova)](Replace_With_Activity_14_Link)
 - [Hands-on Activity 15 - Openstack Installation(Neutron, Horizon, Cinder)](Replace_With_Activity_15_Link)
 
-I’m currently learning **Managing Enterprise Servers**
+</div>
 
-In this course, I have learned how to implement what I have learned before about the Linux OS, and apply it onto this course. I have learned how to create connected servers using ssh, I have learned how to create yaml files that do system updates, installations, and the likes. I have learned how to use ansible to make use of scripts to manage other servers with the use of ansible and ssh. I have learned to use tags and roles to create a better filtering for tasks. I have learned how to create containers to conserve resources and still apply ansible roles and tasks. This course has taught me a lot, and I believe that it will make me a better worker in the future.
-
-- 📫 How to reach me **qajgonzales1@tip.edu.ph**
+<script>
+function toggleSection(sectionId) {
+  var section = document.getElementById(sectionId);
+  if (section.style.display === "none") {
+    section.style.display = "block";
+  } else {
+    section.style.display = "none";
+  }
+}
+</script>
