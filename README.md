@@ -109,12 +109,6 @@
         </section>
 
         <section>
-            <ul>
-                <li><a href="https://github.com/qajgonzales1?tab=repositories">My Repository</a></li>
-            </ul>
-        </section>
-
-        <section>
             <h2>If you have a concern, kindly message me here:</h2>
             <ul>
                 <li><a href="mailto:qajgonzales1@tip.edu.ph">Gmail</a></li>
@@ -124,7 +118,7 @@
 
         <section>
             <h2>Reflection and Learnings</h2>
-            <p><a href="https://docs.google.com/document/d/1RbFz-fbXYGKTbeRVMyBvrL1UnRwcNXL8WQ8uAfT8fME/edit">Reflection and Learnings Document</a></p>
+            <p><a href="https://docs.google.com/document/d/17zmmwk1YyC5qAR5SuvACKF_faSy3yV7IWtX0gAvBBtY/edit">Reflection and Learnings Document</a></p>
         </section>
     </main>
 </body>
