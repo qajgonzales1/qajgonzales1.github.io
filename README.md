@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            background-image: url('https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+            background-image: url('https://t4.ftcdn.net/jpg/03/99/30/73/360_F_399307378_LuSoCJrfkRn2jAGaByqAi771EF1QTwdf.jpg');
             background-size: cover;
             margin: 0;
             padding: 0;
@@ -69,10 +69,8 @@
         <h1>Allen Jerome B. Gonzales</h1>
         <h4>Course</h4>
         <h4>Computer Engineering</h4>
-        <h4>Section</h4>
-        <h4>CPE31S4</h4>
-        <h4>Course Code</h4>
-        <h4>CPE232</h4>
+        <h4>Course & Section</h4>
+        <h4>CPE232 | CPE31S4</h4>
     </header>
     <main>
         <section>
