@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            background-image: url('https://t4.ftcdn.net/jpg/03/99/30/73/360_F_399307378_LuSoCJrfkRn2jAGaByqAi771EF1QTwdf.jpg');
+            background-image: url('https://img.freepik.com/free-vector/gradient-geometric-shapes-dark-background-design_23-2148433740.jpg?w=996&t=st=1702136860~exp=1702137460~hmac=c461b724cf0ecc8ac9bf3226b67557dcc6da841bc29b6242168a7674431baa1d');
             background-size: cover;
             margin: 0;
             padding: 0;
