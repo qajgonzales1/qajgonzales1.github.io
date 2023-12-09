@@ -65,7 +65,7 @@
 </head>
 <body>
     <header>
-        <img src="https://drive.google.com/drive/u/1/folders/17uyo6g7RWugHJvikNZ0PtqpvwLx_zsEU" alt="Portfolio Image" style="max-width: 20%; height: auto; border-radius: 50%;">
+        <img src="https://github.com/qajgonzales1/qajgonzales1.github.io/blob/main/picture.jpg" alt="Portfolio Image" style="max-width: 20%; height: auto; border-radius: 50%;">
         <h1>Allen Jerome B. Gonzales</h1>
         <h4>Course</h4>
         <h4>Computer Engineering</h4>
