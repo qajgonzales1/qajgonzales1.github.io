@@ -5,6 +5,8 @@
 <a href="#midterm">Midterm Period</a> | 
 <a href="#final">Final Period</a>
 
+<summary style="background-color: #FADBD8;">
+  
 ## Prelim Period <a name="prelim"></a>
 
 **Prelim Period Content:**
@@ -15,7 +17,10 @@
 - [Hands-on Activity 4 - Ansible Basics](https://github.com/qajgonzales1/HOA4.git)
 - [Hands-on Activity 5 - Implementing Ansible roles in playbooks](https://github.com/qajgonzales1/HOA5.git)
 - [Prelim Examination - Major Examination](https://github.com/qajgonzales1/Gonzales_PrelimExam.git)
+</summary>
 
+<summary style="background-color: #d3d3d3;">
+  
 ## Midterm Period <a name="midterm"></a>
 
 **Midterm Period Content:**
@@ -26,6 +31,9 @@
 - [Hands-on Activity 9 - Install, Configure and Manage Enterprise Performance Monitoring via Ansible](https://github.com/qajgonzales1/HOA9.git)
 - [Hands-on Activity 10 - Install, Configure and Manage Enterprise Log Monitoring via Ansible](https://github.com/qajgonzales1/HOA10.git)
 - [Midterm Exam - Major Examination](https://github.com/qajgonzales1/CPE_MIDEXAM_GONZALES.git)
+</summary>
+
+<summary style="background-color: #ffa07a;">
 
 ## Final Period <a name="final"></a>
 
@@ -36,6 +44,7 @@
 - [Hands-on Activity 13 - Openstack Prerequisite Installation](https://github.com/qajgonzales1/HOA13.git)
 - [Hands-on Activity 14 - Openstack Installation(Keystone, Glance, Nova)](https://github.com/qajgonzales1/HOA14.git)
 - [Hands-on Activity 15 - Openstack Installation(Neutron, Horizon, Cinder)](https://github.com/qajgonzales1/HOA15.git)
+</summary>
 
 I’m currently learning **Managing Enterprise Servers**
 
