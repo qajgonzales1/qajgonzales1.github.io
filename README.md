@@ -23,7 +23,7 @@
         }
         img {
             max-width: 20%;
-            height: auto;
+            height: 50%;
             border-radius: 50%;
         }
         section {
@@ -63,11 +63,11 @@
         }
         .left-image {
             float: left;
-            margin-right: 20px;
+            margin-right: 10px;
         } 
         .right-image {
             float: right;
-            margin-left: 20px;
+            margin-left: 10px;
         }
         .clearfix::after {
             content: "";
