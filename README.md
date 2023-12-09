@@ -55,16 +55,20 @@
             text-decoration: none;
             font-weight: bold;
         }
+	a:hover {
+            text-decoration: underline;
+        }
+        h4 {
+            margin: 0; /* Reset margin for the h4 element */
+        }
         .left-image {
             float: left;
             margin-right: 20px;
-        }
-        
+        } 
         .right-image {
             float: right;
             margin-left: 20px;
         }
-        
         .clearfix::after {
             content: "";
             display: table;
