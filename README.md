@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,15 +12,18 @@
             font-family: 'Arial', sans-serif;
             color: #fff;
         }
+        
         header {
             padding: 20px;
             text-align: center;
             background: rgba(0, 0, 0, 0.5);
             color: #fff;
         }
+        
         main {
             padding: 20px;
         }
+        
         img {
             max-width: 20%;
             height: auto;
@@ -61,11 +64,27 @@
         h4 {
             margin: 0; /* Reset margin for the h4 element */
         }
+        .left-image {
+            float: left;
+            margin-right: 20px;
+        }
+        
+        .right-image {
+            float: right;
+            margin-left: 20px;
+        }
+        
+        .clearfix::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
     </style>
 </head>
 <body>
-    <header>
-        <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/406805576_6886507654802598_3945609000452478901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFl9ONqg1HyQswbYty656o9OXTWC0DzNww5dNYLQPM3DPmYmNveppyLXLXpt2TB8W1_cgZCrK-Au-ku3y2skYNw&_nc_ohc=uF6Pr76RY74AX-WKSjD&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfCRLPf4IJMoiNZprJTJP4TyiBLhQfR6A3ds3Xq-HeQKpQ&oe=6579B1F5" alt="Portfolio Image" style="max-width: 20%; height: auto; border-radius: 50%;">
+      <header>
+        <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/406805576_6886507654802598_3945609000452478901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeFl9ONqg1HyQswbYty656o9OXTWC0DzNww5dNYLQPM3DPmYmNveppyLXLXpt2TB8W1_cgZCrK-Au-ku3y2skYNw&_nc_ohc=uF6Pr76RY74AX-WKSjD&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfCRLPf4IJMoiNZprJTJP4TyiBLhQfR6A3ds3Xq-HeQKpQ&oe=6579B1F5" alt="Left Image" class="left-image">
+	<img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t39.30808-6/376838755_709863014513964_6790091193289891700_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFrGUvhNdg45rZjPT_cNr5pMKhDSSeuINwwqENJJ64g3Ki69f6RONp-eQ2m_iD4Lt2fCDZjcouqiP6eE1ihWmIB&_nc_ohc=VAubMSpvoNoAX-NANiG&_nc_ht=scontent.fmnl33-1.fna&oh=00_AfA4QAoGekeQIxBxlcsDi49d1QTvJM9SLO4Ik7EtiKddjQ&oe=657A7EDE" alt="Right Image" class="right-image">
         <h1>Allen Jerome B. Gonzales</h1>
         <h4>Course</h4>
         <h4>Computer Engineering</h4>
