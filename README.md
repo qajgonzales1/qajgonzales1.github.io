@@ -65,7 +65,7 @@
 </head>
 <body>
     <header>
-        <img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t39.30808-6/408505549_6886485341471496_5879389987557902474_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGXX8budvpcnJONfnAzKTqyftSO46bjHZp-1I7jpuMdmk1yMlDgoB1DtrvSZQ3YYknUs38rqbydq9xVjzbBZo9D&_nc_ohc=xqE4xCp4LVYAX_wowRj&_nc_ht=scontent.fmnl33-1.fna&oh=00_AfCmCxjPZPLtzxij6vskkVW4lqsV011_GCAmqPlJwD_GEw&oe=6579F882" alt="Portfolio Image" style="max-width: 10%; height: auto; border-radius: 50%;">
+        <img src="https://scontent.fmnl33-1.fna.fbcdn.net/v/t39.30808-6/408505549_6886485341471496_5879389987557902474_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeGXX8budvpcnJONfnAzKTqyftSO46bjHZp-1I7jpuMdmk1yMlDgoB1DtrvSZQ3YYknUs38rqbydq9xVjzbBZo9D&_nc_ohc=xqE4xCp4LVYAX_wowRj&_nc_ht=scontent.fmnl33-1.fna&oh=00_AfCmCxjPZPLtzxij6vskkVW4lqsV011_GCAmqPlJwD_GEw&oe=6579F882" alt="Portfolio Image" style="max-width: 20%; height: auto; border-radius: 40%;">
         <h1>Allen Jerome B. Gonzales</h1>
         <h4>Course</h4>
         <h4>Computer Engineering</h4>
