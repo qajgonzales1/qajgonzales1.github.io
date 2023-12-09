@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            background-image: url('https://img.freepik.com/premium-photo/wall-with-neon-lights-blue-red-neon-background_635062-199.jpg');
+            background-image: url('https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
             background-size: cover;
             margin: 0;
             padding: 0;
@@ -68,11 +68,11 @@
         <img src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t1.6435-9/199500655_116262917338214_4893920733149509476_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeGuhWI9-vlMr9slgQQzjLHrcIu2dfZ8zG5wi7Z19nzMbklmUH2cGZn0uQgYDsd7mXIkqGEgtalSsFMEv9XUHt7f&_nc_ohc=ck4ZPI4yeIcAX9yQ9xu&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfCHCBeYki2-rUrnnnJCyy8BbdcrteyOi278DkXyw3KGhg&oe=659BD1F0" alt="Portfolio Image" style="max-width: 20%; height: auto; border-radius: 50%;">
         <h1>Allen Jerome B. Gonzales</h1>
         <h4>Course</h4>
-        <span>Computer Engineering</span>
+        <h4>Computer Engineering</h4>
         <h4>Section</h4>
-        <span>CPE31S4</span>
+        <h4>CPE31S4</h4>
         <h4>Course Code</h4>
-        <span>CPE232</span>
+        <h4>CPE232</h4>
     </header>
     <main>
         <section>
