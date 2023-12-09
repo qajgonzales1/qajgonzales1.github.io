@@ -109,18 +109,16 @@
         </section>
 
         <section>
-            <h2>My Repository</h2>
             <ul>
-                <li><a href="https://github.com/andayalyka?tab=repositories">Repository</a></li>
+                <li><a href="https://github.com/qajgonzales1?tab=repositories">My Repository</a></li>
             </ul>
         </section>
 
         <section>
             <h2>If you have a concern, kindly message me here:</h2>
             <ul>
-                <li><a href="mailto:qlandaya1@tip.edu.ph">Gmail</a></li>
-                <li>Email: qlandaya1@tip.edu.ph</li>
-                <li><a href="https://www.facebook.com/LykaAndaya21">Facebook</a></li>
+                <li><a href="mailto:qajgonzales1@tip.edu.ph">Gmail</a></li>
+                <li>Email: qajgonzales1@tip.edu.ph</li>
             </ul>
         </section>
 
